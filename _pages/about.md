@@ -7,10 +7,10 @@ redirect_from:
   - /about.html
 ---
 
-i am a first-year ph.d. student in computer science at [johns hopkins university](https://www.cs.jhu.edu), advised by [joshua vogelstein, ph.d.](https://jovo.me) and [jessica sorrell, ph.d.](https://jlsorrell.github.io/). i work under the neurodata lab and the learning theory group, where i work at the intersection of machine learning, optimization, and statistical theory.
+i am a first-year ph.d. student in the [department of computer science](https://cs.jhu.edu) at [johns hopkins university](https://www.jhu.edu), advised by [joshua vogelstein, ph.d.](https://jovo.me) and [jessica sorrell, ph.d.](https://jlsorrell.github.io/). i colloborate under the [neurodata lab](neurodata.io) and the [learning theory group](https://www.cs.jhu.edu/~mdinitz/theory/), where i work at the intersection of theoretical machine learning, statistical methodology for high-dimensional data, reinforcement learning, and optimization. i am also a member of the [Mathematical Institute for data science](https://www.minds.jhu.edu/) and the [institute for data intensive engineering and science](https://www.idies.jhu.edu/)
 
-my research is supported by the [gem fellowship] (https://www.gemfellowship.org/gem-fellowship-program/) and [the johns hopkins computer science department](https://www.cs.jhu.edu). 
+my research is supported by the [gem fellowship](https://www.gemfellowship.org/gem-fellowship-program/) and [the johns hopkins computer science department](https://www.cs.jhu.edu). 
 
-previously, i earned my b.s. in applied mathematics and statistics and m.s.e. in data science from johns hopkins university under the [department of applied mathematics and statistics](ams.jhu.edu)
+previously, i earned a b.s. in [applied mathematics and statistics](ams.jhu.edu) from johns hopkins university as a [cummings scholar](https://apply.jhu.edu/tuition-aid/types-of-financial-aid/need-based-scholarships/cummings-scholars-program/). following my undergraduate education, i earned an m.s.e. in [data science](https://engineering.jhu.edu/ams/academics/graduate-studies/ms-in-data-science/) as a gem employer master's fellow and rubenstein fellow.
 
 for more information, please see my [cv](/files/cv.pdf)
