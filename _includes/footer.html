@@ -1,5 +1,7 @@
 {% include base_path %}
 
+<!-- original footer commented out -->
+{%- comment -%}
 {% if site.author.github or site.author.bitbucket or site.atom_feed.hide != true %}
 <div class="page__footer-follow">
   <ul class="social-icons">
@@ -22,7 +24,6 @@
 </div>
 {% endif %}
 
-<!--
 <div class="page__footer-copyright">
   &copy; {{ site.time | date: '%Y' }} {{ site.name | default: site.title }},
   {{ site.data.ui-text[site.locale].powered_by | default: "Powered by" }}
@@ -31,9 +32,10 @@
   a fork of <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.
   <br />Site last updated {{ "now" | date: '%Y-%m-%d' }}
 </div>
--->
+{%- endcomment -%}
 
-<div class="page__footer-copyright" style="border-top:none; box-shadow:none; text-align:center; color:#999;">
-  &copy; {{ site.time | date: '%Y' }} omobolade odedoyin
-</div>
-
+<footer class="page__footer" style="border-top:none!important; box-shadow:none!important;">
+  <p style="text-align:center; margin:1rem 0; color:#999;">
+    © {{ site.time | date: '%Y' }} omobolade odedoyin
+  </p>
+</footer>
