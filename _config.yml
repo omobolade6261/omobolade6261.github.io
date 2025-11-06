@@ -26,7 +26,9 @@ author:
   avatar           : "profile.jpg"
   name             : "omobolade odedoyin"
   pronouns         : # example: "she/her"  
-  bio              : "cs phd student @ jhu\ntheoretical machine learning, high-dimensional statistical methods, reinforcement learning, optimization"
+  bio              : |
+    cs phd student @ johns hopkins university
+    theoretical machine learning, high-dimensional statistical methods, reinforcement learning, optimization
   location         : "baltimore, md"
   employer         : "johns hopkins university"
   uri              : # URL
