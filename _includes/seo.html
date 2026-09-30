@@ -1,6 +1,9 @@
 {% include base_path %}
 
 <!-- begin SEO -->
+{% unless page.url == "/" %}
+<meta name="robots" content="noindex, nofollow">
+{% endunless %}
 {% if site.url %}
   {% assign seo_url = site.url | append: site.baseurl %}
 {% endif %}

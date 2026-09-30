@@ -189,6 +189,13 @@ exclude:
   - README
   - tmp
   - vendor
+  - README.md
+  - CONTRIBUTING.md
+  - markdown_generator
+  - scripts
+  - docker-compose.yaml
+  - _config_docker.yml
+  - .devcontainer
 keep_files:
   - .git
   - .svn
@@ -219,16 +226,16 @@ kramdown:
 # These settings control the types of collections used by the template
 collections:
   teaching:
-    output: true
+    output: false
     permalink: /:collection/:path/
   publications:
-    output: true
+    output: false
     permalink: /:collection/:path/
   portfolio:
-    output: true
+    output: false
     permalink: /:collection/:path/
   talks:
-    output: true
+    output: false
     permalink: /:collection/:path/
 
 
